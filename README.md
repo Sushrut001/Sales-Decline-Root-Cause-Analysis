@@ -48,7 +48,7 @@ Power BI Desktop · Power Query · DAX · [Superstore Dataset](https://www.kaggl
 
 ## 🚀 How to View
 
-1. Download PowerBI FIle  [*Power_BI*](powerbi.pbix)
+1. Download PowerBI FIle  [*Power_BI*](https://github.com/Sushrut001/Sales-Decline-Root-Cause-Analysis/blob/main/powerbi.pbix)
 2. Open in [Power BI Desktop (free)](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 No Power BI? Just check the screenshot above.
