@@ -30,7 +30,7 @@ The 2014 figure was inflated by a **small number of unusually large one-off orde
 
 ## 🖼️ Dashboard
 
-![Dashboard](Main.png)
+![Dashboard](Main(2).png)
 
 - **Regional Sales Comparison (Mar 2014 vs 2015)** — isolates South as the only declining region
 - **South Region — Sales by Category** — isolates Technology as the only declining category
