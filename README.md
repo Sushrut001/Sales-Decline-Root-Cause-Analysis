@@ -30,7 +30,7 @@ The 2014 number was inflated by just **a few large one-off orders** that simply 
 
 ## 🖼️ Dashboard
 
-![Dashboard](./main.png)
+![Dashboard](Main.png)
 
 - **Regional Sales Comparison** — shows only South dropped
 - **South Region — Sales by Category** — shows only Technology dropped
@@ -48,7 +48,7 @@ Power BI Desktop · Power Query · DAX · [Superstore Dataset](https://www.kaggl
 
 ## 🚀 How to View
 
-1. [Download **sales_drop_analysis.pbix**](./Sales Decline Root-Cause Analysis.pbix)
+1. [Download **sales_drop_analysis.pbix**](powerbi.pbix)
 2. Open in [Power BI Desktop (free)](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 No Power BI? Just check the screenshot above.
