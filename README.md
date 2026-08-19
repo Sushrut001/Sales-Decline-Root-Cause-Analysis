@@ -12,6 +12,16 @@ A one-page Power BI dashboard that investigates a sharp 69% year-over-year sales
 
 Company-wide sales in **March 2015 were down 69%** compared to March 2014 ($32.9K → $10.3K) — the single largest month-over-month drop across the entire 2014–2017 dataset, despite the company growing steadily overall ($484K → $733K over the same period). A drop this size, taken at face value, would normally trigger a serious business review.
 
+## 🚀 How to View
+
+| Step | Action |
+|---|---|
+| 1️⃣ | [**Download DASHBOARD.pbix**]( https://github.com/Sushrut001/Sales-Decline-Root-Cause-Analysis/raw/main/powerbi.pbix) |
+| 2️⃣ | Open in **Power BI Desktop** — [free download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) |
+| 3️⃣ | Explore all **4 report pages** using the tabs at the bottom |
+
+> No Power BI installed? Just view the screenshots above.
+
 ## 🔍 Investigation
 
 Rather than reporting the number as-is, I drilled down step by step to isolate the actual cause:
@@ -49,16 +59,7 @@ Power BI Desktop · Power Query · DAX · [Superstore Dataset](https://www.kaggl
 - The affected segment had a very small sample size (5 vs 2 orders) — this finding shouldn't be generalized to higher-volume categories
 - No customer-level ID to confirm if the same client placed the large 2014 orders — this is an inference based on order value, not a confirmed match
 
----
-
-## 🚀 How to View
-
-1. Download Link [**sales_drop_analysis.pbix**](https://github.com/Sushrut001/Sales-Decline-Root-Cause-Analysis/blob/main/powerbi.pbix)
-2. Open in [Power BI Desktop (free)](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
-
-No Power BI installed? Just view the screenshot above.
-
----
+--- 
 
 ## 🙌 Contact
 
